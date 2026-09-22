@@ -11,7 +11,7 @@ To interface an SG90 servo motor with an Arduino Uno development board and write
 ## Component
 
 ![][image1]
-
+![imagere1](componentservo.png)
 ### &nbsp;Working
 
 A servo motor operates as a **closed-loop negative feedback servomechanism** composed of four elements: a miniature DC motor, a reduction gear train, a position-sensing potentiometer coupled to the output shaft, and an internal error-detection amplifier.
@@ -36,7 +36,7 @@ The Arduino \<Servo.h\> library utilizes the microcontroller's internal 16-bit h
 &nbsp;
 
 ![][image2]
-
+![image2](circuitservo.png)
 &nbsp;
 
 &nbsp;
@@ -68,7 +68,7 @@ The Arduino \<Servo.h\> library utilizes the microcontroller's internal 16-bit h
 &nbsp;
 
 ![][image3]
-
+![image3](schematicservo.png)
 &nbsp;
 
 &nbsp;
